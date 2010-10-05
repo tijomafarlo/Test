@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/ExploitationBD/!svn/ver/16/GestionCartes
+END
+test2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ExploitationBD/!svn/ver/5/GestionCartes/test2.txt
+END
+testOut.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ExploitationBD/!svn/ver/5/GestionCartes/testOut.txt
+END
+manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ExploitationBD/!svn/ver/1/GestionCartes/manifest.mf
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ExploitationBD/!svn/ver/1/GestionCartes/build.xml
+END
+test1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ExploitationBD/!svn/ver/5/GestionCartes/test1.txt
+END

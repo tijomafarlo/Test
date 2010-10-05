@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ExploitationBD/!svn/ver/16/GestionCartes/src/gestioncartes
+END
+FileService.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ExploitationBD/!svn/ver/16/GestionCartes/src/gestioncartes/FileService.java
+END
+IView.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ExploitationBD/!svn/ver/10/GestionCartes/src/gestioncartes/IView.java
+END
+Operations.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ExploitationBD/!svn/ver/16/GestionCartes/src/gestioncartes/Operations.java
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ExploitationBD/!svn/ver/12/GestionCartes/src/gestioncartes/Main.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ExploitationBD/!svn/ver/10/GestionCartes/src/gestioncartes/Messages.java
+END
+Card.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ExploitationBD/!svn/ver/16/GestionCartes/src/gestioncartes/Card.java
+END
+IService.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ExploitationBD/!svn/ver/16/GestionCartes/src/gestioncartes/IService.java
+END
+Questions.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ExploitationBD/!svn/ver/4/GestionCartes/src/gestioncartes/Questions.java
+END
+WriteTxtFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ExploitationBD/!svn/ver/13/GestionCartes/src/gestioncartes/WriteTxtFile.java
+END
+OutputView.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ExploitationBD/!svn/ver/16/GestionCartes/src/gestioncartes/OutputView.java
+END
+ReadTxtFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ExploitationBD/!svn/ver/14/GestionCartes/src/gestioncartes/ReadTxtFile.java
+END
+Player.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ExploitationBD/!svn/ver/16/GestionCartes/src/gestioncartes/Player.java
+END
+Inventory.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ExploitationBD/!svn/ver/16/GestionCartes/src/gestioncartes/Inventory.java
+END
